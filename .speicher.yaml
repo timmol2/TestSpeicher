@@ -1,0 +1,5 @@
+version: 1
+
+# Who may read this repository. Every name is a group of your speicher.md instance
+access:
+  groups: [test]
